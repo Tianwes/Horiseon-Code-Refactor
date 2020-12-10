@@ -7,7 +7,8 @@ Added an id="search-engine-optimization" to the "search-engine-optimization" div
 
 I consolidated the h3's css as they were all the same
 
-<!-- Added comments to HTML document and CSS stylesheet -->
+Added comments to HTML document
+Added comments to CSS stylesheet 
 
 Added alts to images
 
@@ -16,7 +17,18 @@ Added (id="employees-in-meeting-image") to div class="hero" -
 
 Consolidated image tag from Benefit Cost div from closing tag to a self-closing tag
 
+Moved .hero selector under the header stylings to follow page/HTML layout
 
+Moved .content selector under .hero stylings to follow page/HTML layout
+
+<!-- Moved .float-left & .float-right under selectors under .content stylings to follow path/HTML layout -->
+
+Moved the "content" section css selectors and styling under the hero image to follow page layout 
+( .search-engine-optimization, etc.)
+
+Consolidated div id styling for div class="content" selectors in css
+
+Added a second class to the Content div's images of : content-image
 
 
 
