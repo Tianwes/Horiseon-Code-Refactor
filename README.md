@@ -27,8 +27,23 @@ Moved the "content" section css selectors and styling under the hero image to fo
 ( .search-engine-optimization, etc.)
 
 Consolidated div id styling for div class="content" selectors in css
+(Images in "content")
 
 Added a second class to the Content div's images of : content-image
+
+organized "content" divs css in order of appearance in html
+
+Added "<header>" around <div class="header">.
+
+Put <aside> tag around "Benefits" div
+In CSS - changed ".benefits" to "aside"
+
+Put "<footer>" tag around "footer" div
+
+Put "<main"> tag around "content" div
+In CSS- changed ".content" to "main"
+
+
 
 
 
