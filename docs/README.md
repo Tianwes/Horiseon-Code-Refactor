@@ -33,15 +33,25 @@ Added a second class to the Content div's images of : content-image
 
 organized "content" divs css in order of appearance in html
 
-Added "<header>" around <div class="header">.
+Added "header" around div class="header"
 
-Put <aside> tag around "Benefits" div
+Put "aside" tag around "Benefits" div
 In CSS - changed ".benefits" to "aside"
 
-Put "<footer>" tag around "footer" div
+Put "footer" tag around "footer" div
 
-Put "<main"> tag around "content" div
+Put "main" tag around "content" div
 In CSS- changed ".content" to "main"
+
+Added "figure" tag around hero image div
+
+Added "nav" tag around header div
+
+Changed the div tag in the div="header" to a "nav" tag - changed corresponding css selectors from div to nav
+
+Changed the divs to sections in the aside - beneifts 
+
+Changed footer div to footer - changed css accordingly
 
 
 
