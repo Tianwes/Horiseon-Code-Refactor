@@ -1,57 +1,25 @@
 # code_refactor
-Week one homework - code refactoring
+Horiseon - Social Solution Services
 
-Changed Webpage's title from "Webpage" to "Horiseon - Social Solution Services"
+The original code was refactored and consolidated with the intent to improve accessiblility, making easier and more enjoyable for all to navigate. This ultimately enhances search engine optimization.
 
-Added an id="search-engine-optimization" to the "search-engine-optimization" div under div class="content" - which fixed search engine optimization link
 
-I consolidated the h3's css as they were all the same
+For the users' side
 
-Added comments to HTML document
-Added comments to CSS stylesheet 
+- The webpage's title is now more descriptive (going from "webpage" to "Horiseon - Social Solution Services")
+- Images have been given "alt" tags.
+- "Div" elements were relpaced with more semantic element identifiers  for example, "section" and "aside" making it easier clients using screen readers. 
+- All links are functional
 
-Added alts to images
 
-Added (id="employees-in-meeting-image") to div class="hero" -
- <!-- make more semantic or add aria label?? -->
+For the developers' side
 
-Consolidated image tag from Benefit Cost div from closing tag to a self-closing tag
+- All links are functional
+- Css selectors have been consolidated where applicable, simplifying code
+- Css has been kept in corresponding order with HTML elements as they appear on page
 
-Moved .hero selector under the header stylings to follow page/HTML layout
 
-Moved .content selector under .hero stylings to follow page/HTML layout
-
-<!-- Moved .float-left & .float-right under selectors under .content stylings to follow path/HTML layout -->
-
-Moved the "content" section css selectors and styling under the hero image to follow page layout 
-( .search-engine-optimization, etc.)
-
-Consolidated div id styling for div class="content" selectors in css
-(Images in "content")
-
-Added a second class to the Content div's images of : content-image
-
-organized "content" divs css in order of appearance in html
-
-Added "header" around div class="header"
-
-Put "aside" tag around "Benefits" div
-In CSS - changed ".benefits" to "aside"
-
-Put "footer" tag around "footer" div
-
-Put "main" tag around "content" div
-In CSS- changed ".content" to "main"
-
-Added "figure" tag around hero image div
-
-Added "nav" tag around header div
-
-Changed the div tag in the div="header" to a "nav" tag - changed corresponding css selectors from div to nav
-
-Changed the divs to sections in the aside - beneifts 
-
-Changed footer div to footer - changed css accordingly
+Application deployed    
 
 
 
