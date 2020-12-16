@@ -32,9 +32,9 @@ The original code was refactored and consolidated with the intent to improve acc
 
 ***
 
-# Deployed Application Link - https://tianwes.github.io/code_refactor/ 
+# Deployed Application Link - https://tianwes.github.io/Horiseon-Code-Refactor/
 
-# Application Repository -  https://github.com/Tianwes/code_refactor
+# Application Repository -  https://github.com/Tianwes/Horiseon-Code-Refactor
 
 Licence here
 
